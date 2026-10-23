@@ -6,6 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 /**
  * Integrantes
  * Dardo Kuttel - dardokuttel@gmail.copm
+ * Juan Perez - kjsdhrfghw@gmail.com
  */
 @SpringBootApplication
 public class BugbostersApplication {
